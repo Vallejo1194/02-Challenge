@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/*////////////// HEADER AMD NAVIGATION ////////////////*/
+/*////////////// changed the class for the element HEADER AMD NAVIGATION ////////////////*/
 
 header {
     padding: 20px;
@@ -56,6 +56,8 @@ a {
 p {
     font-size: 16px;
 }
+
+/*////////////// changed the class for the element Figure ////////////////*/
 
 figure .hero {
     height: 800px;
@@ -198,6 +200,9 @@ figure .hero {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/*////////////// changed the class for the element Footer ////////////////*/
+
 
 footer {
     padding: 30px;
