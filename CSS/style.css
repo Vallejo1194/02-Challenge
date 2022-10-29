@@ -5,7 +5,7 @@
 header{
 
     height: 200px;
-    
+    flex-direction: column;
  
 }
 
